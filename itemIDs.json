@@ -157,5 +157,29 @@
     },
     "Skeleton Knife":{
         "id":"525"
-    }
+    },
+    "Broken Fang Gloves":{
+        "id":"4725"
+    },
+    "Bloodhound Gloves":{
+        "id":"5027"
+    },
+    "Sport Gloves":{
+        "id":"5030"
+    },
+    "Driver Gloves":{
+        "id":"5031"
+    },
+    "Hand Wraps":{
+        "id":"5032"
+    },
+    "Moto Gloves":{
+        "id":"5033"
+    },
+    "Specialist Gloves":{
+        "id":"4725"
+    },
+    "Hydra Gloves":{
+        "id":"5035"
+    },
 }

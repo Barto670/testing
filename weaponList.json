@@ -12,26 +12,26 @@
 				"name":"Kami",
                 "patterns":{
                     "Rare patterns":{
-                        909:{
+                        "909":{
                             "Description":"Testing1"
                         },
-                        590:{
+                        "590":{
                             "Description":"Testing2"
                         }
                     },
                     "Tier 1":{
-                        201:{
+                        "201":{
                             "Description":"Testing3"
                         },
-                        401:{
+                        "401":{
                             "Description":"Testing4"
                         }
                     },
 					"Tier 2":{
-                        202:{
+                        "202":{
                             "Description":"Testing5"
                         },
-                        402:{
+                        "402":{
                             "Description":"Testing6"
                         }
                     }

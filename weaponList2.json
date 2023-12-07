@@ -1,0 +1,219 @@
+{
+    "Desert Eagle":{
+        "id":"1"
+    },
+    "Dual Berettas":{
+        "id":"2"
+    },
+    "Five-SeveN":{
+        "id":"3",
+		"finishCatalog":{
+			"265":{
+				"name":"Kami",
+                "patterns":{
+                    "Rare patterns":{
+                        909:{
+                            "Description":"Testing1"
+                        },
+                        590:{
+                            "Description":"Testing2"
+                        }
+                    },
+                    "Tier 1":{
+                        201:{
+                            "Description":"Testing3"
+                        },
+                        401:{
+                            "Description":"Testing4"
+                        }
+                    },
+					"Tier 2":{
+                        202:{
+                            "Description":"Testing5"
+                        },
+                        402:{
+                            "Description":"Testing6"
+                        }
+                    }
+                }
+            }
+		}
+    },
+    "Glock-18":{
+        "id":"4"
+    },
+    "AK-47":{
+        "id":"7"
+    },
+    "AUG":{
+        "id":"8"
+    },
+    "AWP":{
+        "id":"9"
+    },
+    "FAMAS":{
+        "id":"10"
+    },
+    "G3SG1":{
+        "id":"11"
+    },
+    "Galil AR":{
+        "id":"13"
+    },
+    "M249":{
+        "id":"14"
+    },
+    "M4A4":{
+        "id":"16"
+    },
+    "MAC-10":{
+        "id":"17"
+    },
+    "P90":{
+        "id":"19"
+    },
+    "MP5-SD":{
+        "id":"23"
+    },
+    "UMP-45":{
+        "id":"24"
+    },
+    "XM1014":{
+        "id":"25"
+    },
+    "PP-Bizon":{
+        "id":"26"
+    },
+    "MAG-7":{
+        "id":"27"
+    },
+    "Negev":{
+        "id":"28"
+    },
+    "Sawed-Off":{
+        "id":"29"
+    },
+    "Tec-9":{
+        "id":"30"
+    },
+    "P2000":{
+        "id":"32"
+    },
+    "MP7":{
+        "id":"33"
+    },
+    "MP9":{
+        "id":"34"
+    },
+    "Nova":{
+        "id":"35"
+    },
+    "P250":{
+        "id":"36"
+    },
+    "SCAR-20":{
+        "id":"38"
+    },
+    "SG 553":{
+        "id":"39"
+    },
+    "SSG 08":{
+        "id":"40"
+    },
+    "M4A1-S":{
+        "id":"60"
+    },
+    "USP-S":{
+        "id":"61"
+    },
+    "CZ75-Auto":{
+        "id":"63"
+    },
+    "R8 Revolver":{
+        "id":"64"
+    },
+    "Bayonet":{
+        "id":"500"
+    },
+    "Classic Knife":{
+        "id":"503"
+    },
+    "Flip Knife":{
+        "id":"505"
+    },
+    "Gut Knife":{
+        "id":"506"
+    },
+    "Karambit":{
+        "id":"507"
+    },
+    "M9 Bayonet":{
+        "id":"508"
+    },
+    "Huntsman Knife":{
+        "id":"509"
+    },
+    "Falchion Knife":{
+        "id":"512"
+    },
+    "Bowie Knife":{
+        "id":"514"
+    },
+    "Butterfly Knife":{
+        "id":"515"
+    },
+    "Shadow Daggers":{
+        "id":"516"
+    },
+    "Paracord Knife":{
+        "id":"517"
+    },
+    "Survival Knife":{
+        "id":"518"
+    },
+    "Ursus Knife":{
+        "id":"519"
+    },
+    "Navaja Knife":{
+        "id":"520"
+    },
+    "Nomad Knife":{
+        "id":"521"
+    },
+    "Stiletto Knife":{
+        "id":"522"
+    },
+    "Talon Knife":{
+        "id":"523"
+    },
+    "Skeleton Knife":{
+        "id":"525"
+    },
+	"Kukri Knife":{
+        "id":"526"
+    },
+    "Broken Fang Gloves":{
+        "id":"4725"
+    },
+    "Bloodhound Gloves":{
+        "id":"5027"
+    },
+    "Sport Gloves":{
+        "id":"5030"
+    },
+    "Driver Gloves":{
+        "id":"5031"
+    },
+    "Hand Wraps":{
+        "id":"5032"
+    },
+    "Moto Gloves":{
+        "id":"5033"
+    },
+    "Specialist Gloves":{
+        "id":"5034"
+    },
+    "Hydra Gloves":{
+        "id":"5035"
+    }
+}

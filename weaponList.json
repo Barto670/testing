@@ -630,12 +630,99 @@
                         }
                     }
                 }
-            }
+            },
+			"223":{
+				"name":"Nightshade",
+				"sources":"",
+				"description":"",
+				"patterns":{
+					"Unique Patterns":{
+						"708":{
+							"Description":"Heart Pattern (Back of the skin)"
+						}
+					}
+				}
+			}
 		}
     },
     "Glock-18":{
         "id":"4",
 		"finishCatalog":{
+			"381":{
+				"name":"Grinder",
+				"sources":"https://steamcommunity.com/sharedfiles/filedetails/?id=2880283225",
+				"description":"",
+				"patterns":{
+					"Tier 1 - Max Black":{
+						"916":{
+							"Description":"#1"
+						},
+						"384":{
+							"Description":"#2"
+						},
+						"811":{
+							"Description":"#3"
+						}
+					},
+					"Tier 2":{
+						"79":{
+							"Description":""
+						},
+						"312":{
+							"Description":""
+						},
+						"933":{
+							"Description":""
+						},
+						"176":{
+							"Description":""
+						},
+						"298":{
+							"Description":""
+						},
+						"387":{
+							"Description":""
+						},
+						"737":{
+							"Description":""
+						},
+						"336":{
+							"Description":""
+						}
+					},
+					"Tier 3":{
+						"907":{
+							"Description":""
+						},
+						"593":{
+							"Description":""
+						},
+						"489":{
+							"Description":""
+						},
+						"804":{
+							"Description":""
+						},
+						"88":{
+							"Description":""
+						},
+						"894":{
+							"Description":""
+						},
+						"269":{
+							"Description":""
+						}
+					},
+					"Tier 4":{
+						"769":{
+							"Description":""
+						},
+						"974":{
+							"Description":""
+						}
+					}
+				}
+			},
 			"694":{
 				"name":"Moonrise",
 				"sources":"https://csgoskins.gg/blog/glock-18-moonrise-guide-rare-star-pattern-seeds",
@@ -1222,6 +1309,71 @@
     "AWP":{
         "id":"9",
 		"finishCatalog":{
+			"174":{
+				"name":"BOOM",
+				"sources":"https://steamcommunity.com/sharedfiles/filedetails/?id=2095239637",
+				"description":"",
+				"patterns":{
+					"Tier 1 C*ck Patterns":{
+						"6":{
+							"Description":""
+						},
+						"97":{
+							"Description":""
+						},
+						"163":{
+							"Description":""
+						},
+						"266":{
+							"Description":""
+						},
+						"285":{
+							"Description":""
+						},
+						"312":{
+							"Description":""
+						},
+						"332":{
+							"Description":""
+						},
+						"387":{
+							"Description":""
+						},
+						"503":{
+							"Description":""
+						},
+						"587":{
+							"Description":""
+						},
+						"781":{
+							"Description":""
+						}
+					},
+					"Tier 2 C*ck Patterns":{
+						"63":{
+							"Description":""
+						},
+						"85":{
+							"Description":""
+						},
+						"98":{
+							"Description":""
+						},
+						"141":{
+							"Description":""
+						},
+						"158":{
+							"Description":""
+						},
+						"319":{
+							"Description":""
+						},
+						"504":{
+							"Description":""
+						}
+					}
+				}
+			},
 			"718":{
 				"name":"PAW",
 				"sources":"https://csgoskins.gg/blog/awp-paw-guide-all-rare-seed-patterns",
@@ -1628,9 +1780,24 @@
 				"sources":"",
 				"description":"",
 				"patterns":{
-					"Rare Patterns":{
+					"Unique Patterns":{
 						"125":{
 							"Description":"Hamster Pattern (Back of the skin)"
+						}
+					}
+				}
+			},
+			"951":{
+				"name":"Acid Etched",
+				"sources":"https://steamcommunity.com/sharedfiles/filedetails/?id=2878867119",
+				"description":"",
+				"patterns":{
+					"Unique Patterns":{
+						"782":{
+							"Description":"Smily Pattern (Back of the skin)"
+						},
+						"804":{
+							"Description":"Skrillex Pattern (Back of the skin)"
 						}
 					}
 				}

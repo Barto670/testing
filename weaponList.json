@@ -634,7 +634,7 @@
 		}
     },
     "Glock-18":{
-        "id":"4"
+        "id":"4",
 		"finishCatalog":{
 			"694":{
 				"name":"Moonrise",
@@ -718,7 +718,7 @@
                         },
 						"958":{
                             "Description":""
-                        },
+                        }
                     },
 					"Back Star":{
                         "31":{

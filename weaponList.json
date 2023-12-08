@@ -630,21 +630,140 @@
                         }
                     }
                 }
-            },
-			"265":{
-				"name":"Kami",
-                "patterns":{
-                    "Rare patterns":{
-                        "909":{
-                            "Description":"Testing1"
-                        }
-                    }
-                }
             }
 		}
     },
     "Glock-18":{
         "id":"4"
+		"finishCatalog":{
+			"694":{
+				"name":"Moonrise",
+				"sources":"https://csgoskins.gg/blog/glock-18-moonrise-guide-rare-star-pattern-seeds",
+				"description":"",
+                "patterns":{
+                    "Best Patterns - Center Star":{
+                        "58":{
+                            "Description":""
+                        },
+						"59":{
+                            "Description":""
+                        },
+						"66":{
+                            "Description":""
+                        },
+						"90":{
+                            "Description":""
+                        },
+						"102":{
+                            "Description":""
+                        },
+						"224":{
+                            "Description":""
+                        },
+						"601":{
+                            "Description":""
+                        },
+						"628":{
+                            "Description":""
+                        },
+						"694":{
+                            "Description":""
+                        },
+						"706":{
+                            "Description":""
+                        },
+						"837":{
+                            "Description":""
+                        },
+						"864":{
+                            "Description":""
+                        }
+                    },
+					"Front Star":{
+                        "19":{
+                            "Description":""
+                        },
+						"109":{
+                            "Description":""
+                        },
+						"142":{
+                            "Description":""
+                        },
+						"165":{
+                            "Description":""
+                        },
+						"194":{
+                            "Description":""
+                        },
+						"237":{
+                            "Description":""
+                        },
+						"302":{
+                            "Description":""
+                        },
+						"403":{
+                            "Description":""
+                        },
+						"475":{
+                            "Description":""
+                        },
+						"487":{
+                            "Description":""
+                        },
+						"509":{
+                            "Description":""
+                        },
+						"800":{
+                            "Description":""
+                        },
+						"958":{
+                            "Description":""
+                        },
+                    },
+					"Back Star":{
+                        "31":{
+                            "Description":""
+                        },
+						"38":{
+                            "Description":""
+                        },
+						"95":{
+                            "Description":""
+                        },
+						"121":{
+                            "Description":""
+                        },
+						"281":{
+                            "Description":""
+                        },
+						"355":{
+                            "Description":""
+                        },
+						"385":{
+                            "Description":""
+                        },
+						"484":{
+                            "Description":""
+                        },
+						"617":{
+                            "Description":""
+                        },
+						"630":{
+                            "Description":""
+                        },
+						"667":{
+                            "Description":""
+                        },
+						"737":{
+                            "Description":""
+                        },
+						"913":{
+                            "Description":""
+                        }
+                    }
+				}
+			}
+		}
     },
     "AK-47":{
         "id":"7",

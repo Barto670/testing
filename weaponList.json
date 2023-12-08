@@ -1621,7 +1621,21 @@
         "id":"30"
     },
     "P2000":{
-        "id":"32"
+        "id":"32",
+		"finishCatalog":{
+			"21":{
+				"name":"Granite Marbleized",
+				"sources":"",
+				"description":"",
+				"patterns":{
+					"Rare Patterns":{
+						"125":{
+							"Description":"Hamster Pattern (Back of the skin)"
+						}
+					}
+				}
+			}
+		}				
     },
     "MP7":{
         "id":"33"

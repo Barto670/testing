@@ -852,74 +852,94 @@
 				"sources":"https://steamcommunity.com/sharedfiles/filedetails/?id=2880283225",
 				"description":"",
 				"patterns":{
-					"Tier 1 - Max Black":{
-						"916":{
+					"Tier 1 - Max Black":[
+						{
+							"id":"916",
 							"description":"#1"
 						},
-						"384":{
+						{
+							"id":"384",
 							"description":"#2"
 						},
-						"811":{
+						{
+							"id":"811",
 							"description":"#3"
 						}
-					},
-					"Tier 2":{
-						"79":{
+					],
+					"Tier 2":[
+						{
+							"id":"916",
 							"description":""
 						},
-						"312":{
+						{
+							"id":"312",
 							"description":""
 						},
-						"933":{
+						{
+							"id":"933",
 							"description":""
 						},
-						"176":{
+						{
+							"id":"176",
 							"description":""
 						},
-						"298":{
+						{
+							"id":"298",
 							"description":""
 						},
-						"387":{
+						{
+							"id":"387",
 							"description":""
 						},
-						"737":{
+						{
+							"id":"737",
 							"description":""
 						},
-						"336":{
+						{
+							"id":"336",
 							"description":""
 						}
-					},
-					"Tier 3":{
-						"907":{
+					],
+					"Tier 3":[
+						{
+							"id":"907",
 							"description":""
 						},
-						"593":{
+						{
+							"id":"593",
 							"description":""
 						},
-						"489":{
+						{
+							"id":"489",
 							"description":""
 						},
-						"804":{
+						{
+							"id":"804",
 							"description":""
 						},
-						"88":{
+						{
+							"id":"88",
 							"description":""
 						},
-						"894":{
+						{
+							"id":"894",
 							"description":""
 						},
-						"269":{
+						{
+							"id":"269",
 							"description":""
 						}
-					},
-					"Tier 4":{
-						"769":{
+					],
+					"Tier 4":[
+						{
+							"id":"769",
 							"description":""
 						},
-						"974":{
+						{
+							"id":"974",
 							"description":""
 						}
-					}
+					]
 				}
 			},
 			"694":{
@@ -927,126 +947,164 @@
 				"sources":"https://csgoskins.gg/blog/glock-18-moonrise-guide-rare-star-pattern-seeds",
 				"description":"",
                 "patterns":{
-                    "Best Patterns - Center Star":{
-                        "58":{
+                    "Best Patterns - Center Star":[
+                        {
+							"id":"58",
                             "description":""
                         },
-						"59":{
+						{
+							"id":"59",
                             "description":""
                         },
-						"66":{
+						{
+							"id":"66",
                             "description":""
                         },
-						"90":{
+						{
+							"id":"90",
                             "description":""
                         },
-						"102":{
+						{
+							"id":"102",
                             "description":""
                         },
-						"224":{
+						{
+							"id":"224",
                             "description":""
                         },
-						"601":{
+						{
+							"id":"601",
                             "description":""
                         },
-						"628":{
+						{
+							"id":"628",
                             "description":""
                         },
-						"694":{
+						{
+							"id":"694",
                             "description":""
                         },
-						"706":{
+						{
+							"id":"706",
                             "description":""
                         },
-						"837":{
+						{
+							"id":"837",
                             "description":""
                         },
-						"864":{
+						{
+							"id":"864",
                             "description":""
                         }
-                    },
-					"Front Star":{
-                        "19":{
+                    ],
+					"Front Star":[
+                        {
+							"id":"19",
                             "description":""
                         },
-						"109":{
+						{
+							"id":"109",
                             "description":""
                         },
-						"142":{
+						{
+							"id":"142",
                             "description":""
                         },
-						"165":{
+						{
+							"id":"165",
                             "description":""
                         },
-						"194":{
+						{
+							"id":"194",
                             "description":""
                         },
-						"237":{
+						{
+							"id":"237",
                             "description":""
                         },
-						"302":{
+						{
+							"id":"302",
                             "description":""
                         },
-						"403":{
+						{
+							"id":"403",
                             "description":""
                         },
-						"475":{
+						{
+							"id":"475",
                             "description":""
                         },
-						"487":{
+						{
+							"id":"487",
                             "description":""
                         },
-						"509":{
+						{
+							"id":"509",
                             "description":""
                         },
-						"800":{
+						{
+							"id":"800",
                             "description":""
                         },
-						"958":{
+						{
+							"id":"958",
                             "description":""
                         }
-                    },
-					"Back Star":{
-                        "31":{
+                    ],
+					"Back Star":[
+                        {
+							"id":"31",
                             "description":""
                         },
-						"38":{
+						{
+							"id":"38",
                             "description":""
                         },
-						"95":{
+						{
+							"id":"95",
                             "description":""
                         },
-						"121":{
+						{
+							"id":"121",
                             "description":""
                         },
-						"281":{
+						{
+							"id":"281",
                             "description":""
                         },
-						"355":{
+						{
+							"id":"355",
                             "description":""
                         },
-						"385":{
+						{
+							"id":"385",
                             "description":""
                         },
-						"484":{
+						{
+							"id":"484",
                             "description":""
                         },
-						"617":{
+						{
+							"id":"617",
                             "description":""
                         },
-						"630":{
+						{
+							"id":"630",
                             "description":""
                         },
-						"667":{
+						{
+							"id":"667",
                             "description":""
                         },
-						"737":{
+						{
+							"id":"737",
                             "description":""
                         },
-						"913":{
+						{
+							"id":"913",
                             "description":""
                         }
-                    }
+                    ]
 				}
 			}
 		}
@@ -1059,445 +1117,600 @@
 				"sources":"https://csgoskins.gg/blog/ak-47-case-hardened-blue-gem-seed-patterns",
 				"description":"",
                 "patterns":{
-                    "Best Pattern":{
-                        "661":{
+                    "Best Pattern":[
+                        {
+							"id":"661",
                             "description":"Scar Pattern"
                         }
-                    },
-                    "Tier 1":{
-                        "151":{
+                    ],
+                    "Tier 1":[
+						{
+							"id":"151",
+                            "description":"#2"
+                        },
+						{
+							"id":"955",
+                            "description":"#3"
+                        },
+						{
+							"id":"321",
+                            "description":"#4"
+                        },
+						{
+							"id":"387",
+                            "description":"#5"
+                        },
+						{
+							"id":"670",
                             "description":""
                         },
-                        "179":{
-                            "description":""
-                        },
-						"321":{
-                            "description":""
-                        },
-						"387":{
-                            "description":""
-                        },
-						"670":{
-                            "description":""
-                        },
-						"955":{
+						{
+							"id":"179",
                             "description":""
                         }
-                    },
-					"Tier 2":{
-                        "4":{
+                    ],
+					"Tier 2":[
+						{
+							"id":"592",
                             "description":""
                         },
-                        "13":{
+						{
+							"id":"4",
                             "description":""
                         },
-						"168":{
+						{
+							"id":"905",
                             "description":""
                         },
-                        "429":{
+						{
+							"id":"13",
                             "description":""
                         },
-						"592":{
+						{
+							"id":"168",
                             "description":""
                         },
-                        "905":{
+						{
+							"id":"429",
                             "description":""
                         }
-                    },
-					"Tier 3":{
-                       "11":{
-						   "description":""
-					   },
-					   "74":{
-						   "description":""
-					   },
-					   "82":{
-						   "description":""
-					   },
-					   "92":{
-						   "description":""
-					   },
-					   "103":{
-						   "description":""
-					   },
-					   "112":{
-						   "description":""
-					   },
-					   "139":{
-						   "description":""
-					   },
-					   "147":{
-						   "description":""
-					   },
-					   "172":{
-						   "description":""
-					   },
-					   "189":{
-						   "description":""
-					   },
-					   "228":{
-						   "description":""
-					   },
-					   "236":{
-						   "description":""
-					   },
-					   "278":{
-						   "description":""
-					   },
-					   "310":{
-						   "description":""
-					   },
-					   "322":{
-						   "description":""
-					   },
-					   "363":{
-						   "description":""
-					   },
-					   "375":{
-						   "description":""
-					   },
-					   "426":{
-						   "description":""
-					   },
-					   "430":{
-						   "description":""
-					   },
-					   "434":{
-						   "description":""
-					   },
-					   "442":{
-						   "description":""
-					   },
-					   "450":{
-						   "description":""
-					   },
-					   "463":{
-						   "description":""
-					   },
-					   "497":{
-						   "description":""
-					   },
-					   "512":{
-						   "description":""
-					   },
-					   "555":{
-						   "description":""
-					   },
-					   "690":{
-						   "description":""
-					   },
-					   "695":{
-						   "description":""
-					   },
-					   "698":{
-						   "description":""
-					   },
-					   "708":{
-						   "description":""
-					   },
-					   "711":{
-						   "description":""
-					   },
-					   "713":{
-						   "description":""
-					   },
-					   "721":{
-						   "description":""
-					   },
-					   "733":{
-						   "description":""
-					   },
-					   "750":{
-						   "description":""
-					   },
-					   "760":{
-						   "description":""
-					   },
-					   "782":{
-						   "description":""
-					   },
-					   "791":{
-						   "description":""
-					   },
-					   "823":{
-						   "description":""
-					   },
-					   "828":{
-						   "description":""
-					   },
-					   "844":{
-						   "description":""
-					   },
-					   "849":{
-						   "description":""
-					   },
-					   "862":{
-						   "description":""
-					   },
-					   "868":{
-						   "description":""
-					   },
-					   "887":{
-						   "description":""
-					   },
-					   "917":{
-						   "description":""
-					   },
-					   "950":{
-						   "description":""
-					   },
-					   "961":{
-						   "description":""
-					   },
-					   "969":{
-						   "description":""
-					   },
-					   "978":{
-						   "description":""
-					   },
-					   "996":{
-						   "description":""
-					   }
-                    },
-					"Tier 4":{
-                       "2":{
-						   "description":""
-					   },
-					   "28":{
-						   "description":""
-					   },
-					   "32":{
-						   "description":""
-					   },
-					   "34":{
-						   "description":""
-					   },
-					   "65":{
-						   "description":""
-					   },
-					   "73":{
-						   "description":""
-					   },
-					   "126":{
-						   "description":""
-					   },
-					   "130":{
-						   "description":""
-					   },
-					   "169":{
-						   "description":""
-					   },
-					   "178":{
-						   "description":""
-					   },
-					   "182":{
-						   "description":""
-					   },
-					   "194":{
-						   "description":""
-					   },
-					   "200":{
-						   "description":""
-					   },
-					   "205":{
-						   "description":""
-					   },
-					   "209":{
-						   "description":""
-					   },
-					   "230":{
-						   "description":""
-					   },
-					   "242":{
-						   "description":""
-					   },
-					   "248":{
-						   "description":""
-					   },
-					   "256":{
-						   "description":""
-					   },
-					   "269":{
-						   "description":""
-					   },
-					   "296":{
-						   "description":""
-					   },
-					   "306":{
-						   "description":""
-					   },
-					   "325":{
-						   "description":""
-					   },
-					   "341":{
-						   "description":""
-					   },
-					   "344":{
-						   "description":""
-					   },
-					   "381":{
-						   "description":""
-					   },
-					   "397":{
-						   "description":""
-					   },
-					   "407":{
-						   "description":""
-					   },
-					   "418":{
-						   "description":""
-					   },
-					   "420":{
-						   "description":""
-					   },
-					   "428":{
-						   "description":""
-					   },
-					   "431":{
-						   "description":""
-					   },
-					   "447":{
-						   "description":""
-					   },
-					   "453":{
-						   "description":""
-					   },
-					   "456":{
-						   "description":""
-					   },
-					   "458":{
-						   "description":""
-					   },
-					   "468":{
-						   "description":""
-					   },
-					   "470":{
-						   "description":""
-					   },
-					   "479":{
-						   "description":""
-					   },
-					   "481":{
-						   "description":""
-					   },
-					   "493":{
-						   "description":""
-					   },
-					   "494":{
-						   "description":""
-					   },
-					   "507":{
-						   "description":""
-					   },
-					   "522":{
-						   "description":""
-					   },
-					   "525":{
-						   "description":""
-					   },
-					   "526":{
-						   "description":""
-					   },
-					   "532":{
-						   "description":""
-					   },
-					   "541":{
-						   "description":""
-					   },
-					   "557":{
-						   "description":""
-					   },
-					   "605":{
-						   "description":""
-					   },
-					   "622":{
-						   "description":""
-					   },
-					   "627":{
-						   "description":""
-					   },
-					   "648":{
-						   "description":""
-					   },
-					   "664":{
-						   "description":""
-					   },
-					   "681":{
-						   "description":""
-					   },
-					   "685":{
-						   "description":""
-					   },
-					   "689":{
-						   "description":""
-					   },
-					   "694":{
-						   "description":""
-					   },
-					   "715":{
-						   "description":""
-					   },
-					   "724":{
-						   "description":""
-					   },
-					   "770":{
-						   "description":""
-					   },
-					   "775":{
-						   "description":""
-					   },
-					   "788":{
-						   "description":""
-					   },
-					   "795":{
-						   "description":""
-					   },
-					   "798":{
-						   "description":""
-					   },
-					   "803":{
-						   "description":""
-					   },
-					   "809":{
-						   "description":""
-					   },
-					   "842":{
-						   "description":""
-					   },
-					   "847":{
-						   "description":""
-					   },
-					   "872":{
-						   "description":""
-					   },
-					   "878":{
-						   "description":""
-					   },
-					   "888":{
-						   "description":""
-					   },
-					   "891":{
-						   "description":""
-					   },
-					   "922":{
-						   "description":""
-					   },
-					   "927":{
-						   "description":""
-					   },
-					   "935":{
-						   "description":""
-					   },
-					   "965":{
-						   "description":""
-					   },
-					   "985":{
-						   "description":""
-					   },
-					   "1000":{
-						   "description":""
-					   }
-                    }
+					],
+					"Tier 3":[
+						{
+							"id":"555",
+                            "description":""
+                        },
+						{
+							"id":"442",
+                            "description":""
+                        },
+						{
+							"id":"978",
+                            "description":""
+                        },
+						{
+							"id":"139",
+                            "description":""
+                        },
+						{
+							"id":"828",
+                            "description":""
+                        },
+						{
+							"id":"969",
+                            "description":""
+                        },
+						{
+							"id":"750",
+                            "description":""
+                        },
+						{
+							"id":"695",
+                            "description":""
+                        },
+						{
+							"id":"103",
+                            "description":""
+                        },
+						{
+							"id":"112",
+                            "description":""
+                        },
+						{
+							"id":"733",
+                            "description":""
+                        },
+						{
+							"id":"844",
+                            "description":""
+                        },
+						{
+							"id":"228",
+                            "description":""
+                        },
+						{
+							"id":"868",
+                            "description":""
+                        },
+						{
+							"id":"434",
+                            "description":""
+                        },
+						{
+							"id":"698",
+                            "description":""
+                        },
+						{
+							"id":"74",
+                            "description":""
+                        },
+						{
+							"id":"996",
+                            "description":""
+                        },
+						{
+							"id":"760",
+                            "description":""
+                        },
+						{
+							"id":"375",
+                            "description":""
+                        },
+						{
+							"id":"708",
+                            "description":""
+                        },
+						{
+							"id":"823",
+                            "description":""
+                        },
+						{
+							"id":"690",
+                            "description":""
+                        },
+						{
+							"id":"791",
+                            "description":""
+                        },
+						{
+							"id":"278",
+                            "description":""
+                        },
+						{
+							"id":"917",
+                            "description":""
+                        },
+						{
+							"id":"463",
+                            "description":""
+                        },
+						{
+							"id":"711",
+                            "description":""
+                        },
+						{
+							"id":"711",
+                            "description":""
+                        },
+						{
+							"id":"92",
+                            "description":""
+                        },
+						{
+							"id":"82",
+                            "description":""
+                        },
+						{
+							"id":"450",
+                            "description":""
+                        },
+						{
+							"id":"512",
+                            "description":""
+                        },
+						{
+							"id":"310",
+                            "description":""
+                        },
+						{
+							"id":"713",
+                            "description":""
+                        },
+						{
+							"id":"11",
+                            "description":""
+                        },
+						{
+							"id":"721",
+                            "description":""
+                        },
+						{
+							"id":"236",
+                            "description":""
+                        },
+						{
+							"id":"172",
+                            "description":""
+                        },
+						{
+							"id":"950",
+                            "description":""
+                        },
+						{
+							"id":"147",
+                            "description":""
+                        },
+						{
+							"id":"782",
+                            "description":""
+                        },
+						{
+							"id":"322",
+                            "description":""
+                        },
+						{
+							"id":"363",
+                            "description":""
+                        },
+						{
+							"id":"189",
+                            "description":""
+                        },
+						{
+							"id":"961",
+                            "description":""
+                        },
+						{
+							"id":"497",
+                            "description":""
+                        },
+						{
+							"id":"430",
+                            "description":""
+                        },
+						{
+							"id":"887",
+                            "description":""
+                        },
+						{
+							"id":"426",
+                            "description":""
+                        },
+						{
+							"id":"862",
+                            "description":""
+                        }
+					],
+					"Tier 4":[
+						{
+							"id":"770",
+                            "description":""
+                        },
+						{
+							"id":"648",
+                            "description":""
+                        },
+						{
+							"id":"28",
+                            "description":""
+                        },
+						{
+							"id":"575",
+                            "description":""
+                        },
+						{
+							"id":"73",
+                            "description":""
+                        },
+						{
+							"id":"798",
+                            "description":""
+                        },
+						{
+							"id":"557",
+                            "description":""
+                        },
+						{
+							"id":"627",
+                            "description":""
+                        },
+						{
+							"id":"532",
+                            "description":""
+                        },
+						{
+							"id":"541",
+                            "description":""
+                        },
+						{
+							"id":"935",
+                            "description":""
+                        },
+						{
+							"id":"453",
+                            "description":""
+                        },
+						{
+							"id":"479",
+                            "description":""
+                        },
+						{
+							"id":"872",
+                            "description":""
+                        },
+						{
+							"id":"522",
+                            "description":""
+                        },
+						{
+							"id":"525",
+                            "description":""
+                        },
+						{
+							"id":"664",
+                            "description":""
+                        },
+						{
+							"id":"622",
+                            "description":""
+                        },
+						{
+							"id":"494",
+                            "description":""
+                        },
+						{
+							"id":"344",
+                            "description":""
+                        },
+						{
+							"id":"965",
+                            "description":""
+                        },
+						{
+							"id":"775",
+                            "description":""
+                        },
+						{
+							"id":"847",
+                            "description":""
+                        },
+						{
+							"id":"209",
+                            "description":""
+                        },
+						{
+							"id":"689",
+                            "description":""
+                        },
+						{
+							"id":"306",
+                            "description":""
+                        },
+						{
+							"id":"803",
+                            "description":""
+                        },
+						{
+							"id":"169",
+                            "description":""
+                        },
+						{
+							"id":"577",
+                            "description":""
+                        },
+						{
+							"id":"381",
+                            "description":""
+                        },
+						{
+							"id":"878",
+                            "description":""
+                        },
+						{
+							"id":"2",
+                            "description":""
+                        },
+						{
+							"id":"888",
+                            "description":""
+                        },
+						{
+							"id":"526",
+                            "description":""
+                        },
+						{
+							"id":"879",
+                            "description":""
+                        },
+						{
+							"id":"126",
+                            "description":""
+                        },
+						{
+							"id":"605",
+                            "description":""
+                        },
+						{
+							"id":"468",
+                            "description":""
+                        },
+						{
+							"id":"269",
+                            "description":""
+                        },
+						{
+							"id":"891",
+                            "description":""
+                        },
+						{
+							"id":"481",
+                            "description":""
+                        },
+						{
+							"id":"985",
+                            "description":""
+                        },
+						{
+							"id":"715",
+                            "description":""
+                        },
+						{
+							"id":"248",
+                            "description":""
+                        },
+						{
+							"id":"456",
+                            "description":""
+                        },
+						{
+							"id":"420",
+                            "description":""
+                        },
+						{
+							"id":"681",
+                            "description":""
+                        },
+						{
+							"id":"32",
+                            "description":""
+                        },
+						{
+							"id":"397",
+                            "description":""
+                        },
+						{
+							"id":"493",
+                            "description":""
+                        },
+						{
+							"id":"788",
+                            "description":""
+                        },
+						{
+							"id":"256",
+                            "description":""
+                        },
+						{
+							"id":"470",
+                            "description":""
+                        },
+						{
+							"id":"418",
+                            "description":""
+                        },
+						{
+							"id":"927",
+                            "description":""
+                        },
+						{
+							"id":"182",
+                            "description":""
+                        },
+						{
+							"id":"178",
+                            "description":""
+                        },
+						{
+							"id":"685",
+                            "description":""
+                        },
+						{
+							"id":"407",
+                            "description":""
+                        },
+						{
+							"id":"507",
+                            "description":""
+                        },
+						{
+							"id":"65",
+                            "description":""
+                        },
+						{
+							"id":"200",
+                            "description":""
+                        },
+						{
+							"id":"694",
+                            "description":""
+                        },
+						{
+							"id":"922",
+                            "description":""
+                        },
+						{
+							"id":"795",
+                            "description":""
+                        },
+						{
+							"id":"809",
+                            "description":""
+                        },
+						{
+							"id":"296",
+                            "description":""
+                        },
+						{
+							"id":"842",
+                            "description":""
+                        },
+						{
+							"id":"194",
+                            "description":""
+                        },
+						{
+							"id":"431",
+                            "description":""
+                        },
+						{
+							"id":"341",
+                            "description":""
+                        },
+						{
+							"id":"447",
+                            "description":""
+                        },
+						{
+							"id":"130",
+                            "description":""
+                        },
+						{
+							"id":"205",
+                            "description":""
+                        },
+						{
+							"id":"428",
+                            "description":""
+                        },
+						{
+							"id":"230",
+                            "description":""
+                        },
+						{
+							"id":"458",
+                            "description":""
+                        },
+						{
+							"id":"1000",
+                            "description":""
+                        },
+						{
+							"id":"242",
+                            "description":""
+                        },
+						{
+							"id":"34",
+                            "description":""
+                        },
+						{
+							"id":"325",
+                            "description":""
+                        },
+						{
+							"id":"724",
+                            "description":""
+                        }
+					]
                 }
             }
 		}
@@ -1513,64 +1726,82 @@
 				"sources":"https://steamcommunity.com/sharedfiles/filedetails/?id=2095239637",
 				"description":"",
 				"patterns":{
-					"Tier 1 C*ck Patterns":{
-						"6":{
+					"Tier 1 C*ck Patterns":[
+						{
+							"id":"97",
+							"description":"#1"
+						},
+						{
+							"id":"266",
 							"description":""
 						},
-						"97":{
+						{
+							"id":"312",
 							"description":""
 						},
-						"163":{
+						{
+							"id":"587",
 							"description":""
 						},
-						"266":{
+						{
+							"id":"503",
 							"description":""
 						},
-						"285":{
+						{
+							"id":"6",
 							"description":""
 						},
-						"312":{
+						{
+							"id":"163",
 							"description":""
 						},
-						"332":{
+						{
+							"id":"285",
 							"description":""
 						},
-						"387":{
+						{
+							"id":"322",
 							"description":""
 						},
-						"503":{
+						{
+							"id":"387",
 							"description":""
 						},
-						"587":{
-							"description":""
-						},
-						"781":{
+						{
+							"id":"781",
 							"description":""
 						}
-					},
-					"Tier 2 C*ck Patterns":{
-						"63":{
+					],
+					"Tier 2 C*ck Patterns":[
+						{
+							"id":"63",
 							"description":""
 						},
-						"85":{
+						{
+							"id":"85",
 							"description":""
 						},
-						"98":{
+						{
+							"id":"141",
 							"description":""
 						},
-						"141":{
+						{
+							"id":"319",
 							"description":""
 						},
-						"158":{
+						{
+							"id":"98",
 							"description":""
 						},
-						"319":{
+						{
+							"id":"158",
 							"description":""
 						},
-						"504":{
+						{
+							"id":"504",
 							"description":""
 						}
-					}
+					]
 				}
 			},
 			"718":{
@@ -1578,350 +1809,456 @@
 				"sources":"https://csgoskins.gg/blog/awp-paw-guide-all-rare-seed-patterns",
 				"description":"",
 				"patterns":{
-					"Gold Cat Tier 1":{
-						"41":{
+					"Gold Cat Tier 1":[
+						{
+							"id":"41",
 							"description":""
 						},
-						"350":{
-							"description":""
-						}
-					},
-					"Gold Cat Tier 2":{
-						"19":{
-							"description":""
-						},
-						"35":{
-							"description":""
-						},
-						"177":{
-							"description":""
-						},
-						"531":{
-							"description":""
-						},
-						"581":{
-							"description":""
-						},
-						"624":{
-							"description":""
-						},
-						"644":{
-							"description":""
-						},
-						"675":{
-							"description":""
-						},
-						"744":{
+						{
+							"id":"350",
 							"description":""
 						}
-					},
-					"Gold Cat Tier 3":{
-						"138":{
+					],
+					"Gold Cat Tier 2":[
+						{
+							"id":"19",
 							"description":""
 						},
-						"192":{
+						{
+							"id":"35",
 							"description":""
 						},
-						"304":{
+						{
+							"id":"177",
 							"description":""
 						},
-						"321":{
+						{
+							"id":"531",
 							"description":""
 						},
-						"368":{
+						{
+							"id":"581",
 							"description":""
 						},
-						"393":{
+						{
+							"id":"624",
 							"description":""
 						},
-						"480":{
+						{
+							"id":"644",
 							"description":""
 						},
-						"493":{
+						{
+							"id":"675",
 							"description":""
 						},
-						"565":{
-							"description":""
-						},
-						"741":{
-							"description":""
-						},
-						"802":{
-							"description":""
-						},
-						"807":{
-							"description":""
-						},
-						"895":{
-							"description":""
-						},
-						"919":{
-							"description":""
-						},
-						"999":{
+						{
+							"id":"744",
 							"description":""
 						}
-					},
-					"Gold Grenade Tier 1":{
-						"429":{
+					],
+					"Gold Cat Tier 3":[
+						{
+							"id":"138",
 							"description":""
 						},
-						"926":{
+						{
+							"id":"192",
 							"description":""
 						},
-						"954":{
-							"description":""
-						}
-					},
-					"Gold Grenade Tier 2":{
-						"3":{
+						{
+							"id":"304",
 							"description":""
 						},
-						"4":{
+						{
+							"id":"321",
 							"description":""
 						},
-						"26":{
+						{
+							"id":"368",
 							"description":""
 						},
-						"38":{
+						{
+							"id":"393",
 							"description":""
 						},
-						"53":{
+						{
+							"id":"480",
 							"description":""
 						},
-						"63":{
+						{
+							"id":"493",
 							"description":""
 						},
-						"73":{
+						{
+							"id":"565",
 							"description":""
 						},
-						"78":{
+						{
+							"id":"741",
 							"description":""
 						},
-						"103":{
+						{
+							"id":"802",
 							"description":""
 						},
-						"122":{
+						{
+							"id":"807",
 							"description":""
 						},
-						"156":{
+						{
+							"id":"895",
 							"description":""
 						},
-						"158":{
+						{
+							"id":"919",
 							"description":""
 						},
-						"163":{
-							"description":""
-						},
-						"182":{
-							"description":""
-						},
-						"186":{
-							"description":""
-						},
-						"216":{
-							"description":""
-						},
-						"232":{
-							"description":""
-						},
-						"234":{
-							"description":""
-						},
-						"247":{
-							"description":""
-						},
-						"270":{
-							"description":""
-						},
-						"279":{
-							"description":""
-						},
-						"307":{
-							"description":""
-						},
-						"334":{
-							"description":""
-						},
-						"347":{
-							"description":""
-						},
-						"411":{
-							"description":""
-						},
-						"430":{
-							"description":""
-						},
-						"463":{
-							"description":""
-						},
-						"467":{
-							"description":""
-						},
-						"575":{
-							"description":""
-						},
-						"749":{
-							"description":""
-						},
-						"819":{
-							"description":""
-						},
-						"891":{
-							"description":""
-						},
-						"917":{
-							"description":""
-						},
-						"952":{
-							"description":""
-						},
-						"957":{
-							"description":""
-						},
-						"961":{
+						{
+							"id":"999",
 							"description":""
 						}
-					},
-					"Gas Mask Tier 1":{
-						"29":{
+					],
+					"Gold Grenade Tier 1":[
+						{
+							"id":"429",
 							"description":""
 						},
-						"97":{
+						{
+							"id":"926",
 							"description":""
 						},
-						"685":{
-							"description":""
-						},
-						"900":{
+						{
+							"id":"954",
 							"description":""
 						}
-					},
-					"Gas Mask Tier 2":{
-						"62":{
+					],
+					"Gold Grenade Tier 2":[
+						{
+							"id":"4",
 							"description":""
 						},
-						"75":{
+						{
+							"id":"4",
 							"description":""
 						},
-						"120":{
+						{
+							"id":"26",
+							"description":""
+						},
+						{
+							"id":"38",
+							"description":""
+						},
+						{
+							"id":"53",
+							"description":""
+						},
+						{
+							"id":"63",
+							"description":""
+						},
+						{
+							"id":"73",
+							"description":""
+						},
+						{
+							"id":"78",
+							"description":""
+						},
+						{
+							"id":"103",
+							"description":""
+						},
+						{
+							"id":"122",
+							"description":""
+						},
+						{
+							"id":"156",
+							"description":""
+						},
+						{
+							"id":"158",
+							"description":""
+						},
+						{
+							"id":"163",
+							"description":""
+						},
+						{
+							"id":"182",
+							"description":""
+						},
+						{
+							"id":"186",
+							"description":""
+						},
+						{
+							"id":"216",
+							"description":""
+						},
+						{
+							"id":"232",
+							"description":""
+						},
+						{
+							"id":"234",
+							"description":""
+						},
+						{
+							"id":"247",
+							"description":""
+						},
+						{
+							"id":"270",
+							"description":""
+						},
+						{
+							"id":"279",
+							"description":""
+						},
+						{
+							"id":"307",
+							"description":""
+						},
+						{
+							"id":"334",
+							"description":""
+						},
+						{
+							"id":"347",
+							"description":""
+						},
+						{
+							"id":"411",
+							"description":""
+						},
+						{
+							"id":"430",
+							"description":""
+						},
+						{
+							"id":"463",
+							"description":""
+						},
+						{
+							"id":"467",
+							"description":""
+						},
+						{
+							"id":"575",
+							"description":""
+						},
+						{
+							"id":"749",
+							"description":""
+						},
+						{
+							"id":"819",
+							"description":""
+						},
+						{
+							"id":"891",
+							"description":""
+						},
+						{
+							"id":"917",
+							"description":""
+						},
+						{
+							"id":"952",
+							"description":""
+						},
+						{
+							"id":"957",
+							"description":""
+						},
+						{
+							"id":"961",
 							"description":""
 						}
-					},
-					"Gas Mask Tier 3":{
-						"2":{
+					],
+					"Gas Mask Tier 1":[
+						{
+							"id":"29",
 							"description":""
 						},
-						"32":{
+						{
+							"id":"97",
 							"description":""
 						},
-						"209":{
+						{
+							"id":"685",
 							"description":""
 						},
-						"291":{
-							"description":""
-						},
-						"294":{
-							"description":""
-						},
-						"458":{
-							"description":""
-						},
-						"492":{
-							"description":""
-						},
-						"566":{
-							"description":""
-						},
-						"647":{
-							"description":""
-						},
-						"916":{
-							"description":""
-						},
-						"992":{
+						{
+							"id":"900",
 							"description":""
 						}
-					},
-					"Gold Cat Knife Tier 1":{
-						"212":{
+					],
+					"Gas Mask Tier 2":[
+						{
+							"id":"62",
 							"description":""
 						},
-						"628":{
+						{
+							"id":"75",
 							"description":""
 						},
-						"737":{
+						{
+							"id":"120",
 							"description":""
 						}
-					},
-					"Gold Cat Knife Tier 2":{
-						"84":{
+					],
+					"Gas Mask Tier 3":[
+						{
+							"id":"2",
 							"description":""
 						},
-						"339":{
+						{
+							"id":"32",
 							"description":""
 						},
-						"366":{
+						{
+							"id":"209",
 							"description":""
 						},
-						"472":{
+						{
+							"id":"291",
 							"description":""
 						},
-						"859":{
+						{
+							"id":"294",
 							"description":""
 						},
-						"864":{
+						{
+							"id":"458",
+							"description":""
+						},
+						{
+							"id":"492",
+							"description":""
+						},
+						{
+							"id":"566",
+							"description":""
+						},
+						{
+							"id":"647",
+							"description":""
+						},
+						{
+							"id":"916",
+							"description":""
+						},
+						{
+							"id":"992",
 							"description":""
 						}
-					},
-					"Gold Cat Knife Tier 3":{
-						"114":{
+					],
+					"Gold Cat Knife Tier 1":[
+						{
+							"id":"212",
 							"description":""
 						},
-						"319":{
+						{
+							"id":"628",
 							"description":""
 						},
-						"322":{
-							"description":""
-						},
-						"396":{
-							"description":""
-						},
-						"406":{
-							"description":""
-						},
-						"509":{
-							"description":""
-						},
-						"559":{
-							"description":""
-						},
-						"804":{
-							"description":""
-						},
-						"830":{
-							"description":""
-						},
-						"977":{
+						{
+							"id":"737",
 							"description":""
 						}
-					},
-					"Stoner Cat Tier 1":{
-						"420":{
+					],
+					"Gold Cat Knife Tier 2":[
+						{
+							"id":"84",
 							"description":""
 						},
-						"788":{
-							"description":""
-						}
-					},
-					"Stoner Cat Tier 2":{
-						"187":{
+						{
+							"id":"339",
 							"description":""
 						},
-						"306":{
+						{
+							"id":"366",
+							"description":""
+						},
+						{
+							"id":"472",
+							"description":""
+						},
+						{
+							"id":"859",
+							"description":""
+						},
+						{
+							"id":"864",
 							"description":""
 						}
-					}
+					],
+					"Gold Cat Knife Tier 3":[
+						{
+							"id":"114",
+							"description":""
+						},
+						{
+							"id":"319",
+							"description":""
+						},
+						{
+							"id":"322",
+							"description":""
+						},
+						{
+							"id":"396",
+							"description":""
+						},
+						{
+							"id":"406",
+							"description":""
+						},
+						{
+							"id":"509",
+							"description":""
+						},
+						{
+							"id":"559",
+							"description":""
+						},
+						{
+							"id":"804",
+							"description":""
+						},
+						{
+							"id":"830",
+							"description":""
+						},
+						{
+							"id":"977",
+							"description":""
+						}
+					],
+					"Stoner Cat Tier 1":[
+						{
+							"id":"420",
+							"description":""
+						},
+						{
+							"id":"788",
+							"description":""
+						}
+					],
+					"Stoner Cat Tier 2":[
+						{
+							"id":"187",
+							"description":""
+						},
+						{
+							"id":"306",
+							"description":""
+						}
+					]
 				}
 			}	
 	}	
@@ -1982,11 +2319,12 @@
 				"sources":"",
 				"description":"",
 				"patterns":{
-					"Unique Patterns":{
-						"125":{
+					"Unique Patterns":[
+						{
+							"id":"125",
 							"description":"Hamster Pattern (Back of the skin)"
 						}
-					}
+					]
 				}
 			},
 			"951":{
@@ -1994,14 +2332,16 @@
 				"sources":"https://steamcommunity.com/sharedfiles/filedetails/?id=2878867119",
 				"description":"",
 				"patterns":{
-					"Unique Patterns":{
-						"782":{
+					"Unique Patterns":[
+						{
+							"id":"782",
 							"description":"Smily Pattern (Back of the skin)"
 						},
-						"804":{
+						{
+							"id":"804",
 							"description":"Skrillex Pattern (Back of the skin)"
 						}
-					}
+					]
 				}
 			}
 		}				

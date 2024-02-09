@@ -11,6 +11,8 @@
 			"44":{
 				"name":"Case Hardened",
 				"sources":"https://csgoskins.gg/blog/five-seven-case-hardened-blue-gem-seed-patterns",
+				"link":"https://csgostash.com/skin/131/Five-SeveN-Case-Hardened",
+				"image":"fiveseven_case.png",
 				"description":"",
                 "patterns":{
                     "Best Patterns":[
@@ -833,6 +835,8 @@
 				"name":"Nightshade",
 				"sources":"",
 				"description":"",
+				"link":"https://csgostash.com/skin/249/Five-SeveN-Nightshade",
+				"image":"fiveseven_nightshade.png",
 				"patterns":{
 					"Unique Patterns":[
 						{
@@ -851,6 +855,8 @@
 				"name":"Grinder",
 				"sources":"https://steamcommunity.com/sharedfiles/filedetails/?id=2880283225",
 				"description":"",
+				"link":"https://csgostash.com/skin/498/Glock-18-Grinder",
+				"image":"glock_grinder.png",
 				"patterns":{
 					"Tier 1 - Max Black":[
 						{
@@ -946,6 +952,8 @@
 				"name":"Moonrise",
 				"sources":"https://csgoskins.gg/blog/glock-18-moonrise-guide-rare-star-pattern-seeds",
 				"description":"",
+				"link":"https://csgostash.com/skin/921/Glock-18-Moonrise",
+				"image":"glock_moonrise.png",
                 "patterns":{
                     "Best Patterns - Center Star":[
                         {
@@ -1116,6 +1124,8 @@
 				"name":"Case Hardened",
 				"sources":"https://csgoskins.gg/blog/ak-47-case-hardened-blue-gem-seed-patterns",
 				"description":"",
+				"link":"https://csgostash.com/skin/82/AK-47-Case-Hardened",
+				"image":"ak47_case.png",
                 "patterns":{
                     "Best Pattern":[
                         {
@@ -1725,6 +1735,8 @@
 				"name":"BOOM",
 				"sources":"https://steamcommunity.com/sharedfiles/filedetails/?id=2095239637",
 				"description":"",
+				"link":"https://csgostash.com/skin/71/AWP-BOOM",
+				"image":"awp_boom.png",
 				"patterns":{
 					"Tier 1 C*ck Patterns":[
 						{
@@ -1804,10 +1816,129 @@
 					]
 				}
 			},
+			"227":{
+				"name":"Electric Hive",
+				"sources":"https://csgoskins.gg/blog/awp-electric-hive-blue-orange-hives-seed-patterns",
+				"description":"",
+				"link":"https://csgostash.com/skin/243/AWP-Electric-Hive",
+				"image":"awp_electric.png",
+				"patterns":{
+					"Blue Hives":[
+                        {
+							"id":"273",
+                            "description":""
+                        },
+						{
+							"id":"436",
+                            "description":""
+                        },
+						{
+							"id":"902",
+                            "description":""
+                        },
+						{
+							"id":"23",
+                            "description":""
+                        },
+						{
+							"id":"853",
+                            "description":""
+                        },
+						{
+							"id":"262",
+                            "description":""
+                        },
+						{
+							"id":"185",
+                            "description":""
+                        },
+						{
+							"id":"598",
+                            "description":""
+                        },
+						{
+							"id":"851",
+                            "description":""
+                        },
+						{
+							"id":"385",
+                            "description":""
+                        },
+						{
+							"id":"138",
+                            "description":""
+                        }
+					],
+					"Orange Hives":[
+						{
+							"id":"253",
+                            "description":""
+                        },
+						{
+							"id":"54",
+                            "description":""
+                        },
+						{
+							"id":"767",
+                            "description":""
+                        },
+						{
+							"id":"611",
+                            "description":""
+                        },
+						{
+							"id":"697",
+                            "description":""
+                        },
+						{
+							"id":"42",
+                            "description":""
+                        },
+						{
+							"id":"894",
+                            "description":""
+                        },
+						{
+							"id":"354",
+                            "description":""
+                        },
+						{
+							"id":"835",
+                            "description":""
+                        },
+						{
+							"id":"117",
+                            "description":""
+                        },
+						{
+							"id":"540",
+                            "description":""
+                        },
+						{
+							"id":"384",
+                            "description":""
+                        },
+						{
+							"id":"143",
+                            "description":""
+                        },
+						{
+							"id":"96",
+                            "description":""
+                        },
+						{
+							"id":"376",
+                            "description":""
+                        }
+					]
+				}
+			},
 			"718":{
 				"name":"PAW",
 				"sources":"https://csgoskins.gg/blog/awp-paw-guide-all-rare-seed-patterns",
 				"description":"",
+				"link":"https://csgostash.com/skin/941/AWP-PAW",
+				"image":"awp_paw.png",
 				"patterns":{
 					"Gold Cat Tier 1":[
 						{
@@ -2260,7 +2391,9 @@
 						}
 					]
 				}
-			}	
+			}
+			
+
 	}	
     },
     "FAMAS":{
@@ -2270,7 +2403,68 @@
         "id":"11"
     },
     "Galil AR":{
-        "id":"13"
+        "id":"13",
+		"finishCatalog":{
+			"264":{
+				"name":"Sandstorm",
+				"sources":"https://csgoskins.gg/blog/galil-ar-sandstorm-guide-all-rare-seed-patterns",
+				"link":"https://csgostash.com/skin/226/Galil-AR-Sandstorm",
+				"image":"galil_sandstorm.png",
+				"description":"",
+				"patterns":{
+					"Purple Tier 1":[
+						{
+							"id":"583",
+							"description":"#1"
+						},
+						{
+							"id":"761",
+							"description":"#2"
+						},
+						{
+							"id":"739",
+							"description":"#3"
+						},
+						{
+							"id":"178",
+							"description":"#4"
+						}
+					],
+					"White Tier 1":[
+						{
+							"id":"555",
+							"description":"#1"
+						},
+						{
+							"id":"449",
+							"description":"#2"
+						},
+						{
+							"id":"873",
+							"description":"#3"
+						},
+						{
+							"id":"352",
+							"description":"#4"
+						}
+					],
+					"Tan Tier 1":[
+						{
+							"id":"786",
+							"description":"#1"
+						},
+						{
+							"id":"783",
+							"description":"#2"
+						},
+						{
+							"id":"774",
+							"description":"#3"
+						}
+					]
+				}
+			}
+		}
     },
     "M249":{
         "id":"14"
@@ -2285,7 +2479,360 @@
         "id":"19"
     },
     "MP5-SD":{
-        "id":"23"
+        "id":"23",
+		"finishCatalog":{
+			"800":{
+				"name":"Lab Rats",
+				"sources":"https://csgoskins.gg/blog/mp5-lab-rats-guide-all-red-rat-seed-patterns",
+				"description":"",
+				"link":"https://csgostash.com/skin/1036/MP5-SD-Lab-Rats",
+				"image":"mp5_lab.png",
+				"patterns":{
+					"Handguard":[
+						{
+							"id":"514",
+							"description":""
+						},
+						{
+							"id":"510",
+							"description":""
+						},
+						{
+							"id":"55",
+							"description":""
+						},
+						{
+							"id":"570",
+							"description":""
+						},
+						{
+							"id":"835",
+							"description":""
+						},
+						{
+							"id":"777",
+							"description":""
+						},
+						{
+							"id":"404",
+							"description":""
+						},
+						{
+							"id":"552",
+							"description":""
+						},
+						{
+							"id":"990",
+							"description":""
+						},
+						{
+							"id":"939",
+							"description":""
+						},
+						{
+							"id":"361",
+							"description":""
+						},
+						{
+							"id":"572",
+							"description":""
+						},
+						{
+							"id":"771",
+							"description":""
+						}
+					],
+					"Above Trigger":[
+						{
+							"id":"625",
+							"description":""
+						},
+						{
+							"id":"450",
+							"description":""
+						},
+						{
+							"id":"471",
+							"description":""
+						},
+						{
+							"id":"640",
+							"description":""
+						},
+						{
+							"id":"736",
+							"description":""
+						},
+						{
+							"id":"44",
+							"description":""
+						},
+						{
+							"id":"343",
+							"description":""
+						}
+					],
+					"Silencer":[
+						{
+							"id":"133",
+							"description":""
+						},
+						{
+							"id":"297",
+							"description":""
+						},
+						{
+							"id":"479",
+							"description":""
+						},
+						{
+							"id":"979",
+							"description":""
+						},
+						{
+							"id":"927",
+							"description":""
+						},
+						{
+							"id":"590",
+							"description":""
+						},
+						{
+							"id":"616",
+							"description":""
+						},
+						{
+							"id":"174",
+							"description":""
+						},
+						{
+							"id":"554",
+							"description":""
+						},
+						{
+							"id":"424",
+							"description":""
+						},
+						{
+							"id":"689",
+							"description":""
+						},
+						{
+							"id":"845",
+							"description":""
+						},
+						{
+							"id":"310",
+							"description":""
+						}
+					],
+					"Left Handguard":[
+						{
+							"id":"104",
+							"description":""
+						},
+						{
+							"id":"66",
+							"description":""
+						},
+						{
+							"id":"255",
+							"description":""
+						},
+						{
+							"id":"558",
+							"description":""
+						},
+						{
+							"id":"706",
+							"description":""
+						},
+						{
+							"id":"298",
+							"description":""
+						},
+						{
+							"id":"119",
+							"description":""
+						},
+						{
+							"id":"899",
+							"description":""
+						},
+						{
+							"id":"519",
+							"description":""
+						},
+						{
+							"id":"379",
+							"description":""
+						}
+					],
+					"Mama Handguard":[
+						{
+							"id":"952",
+							"description":""
+						},
+						{
+							"id":"182",
+							"description":""
+						},
+						{
+							"id":"360",
+							"description":""
+						},
+						{
+							"id":"234",
+							"description":""
+						},
+						{
+							"id":"463",
+							"description":""
+						},
+						{
+							"id":"103",
+							"description":""
+						},
+						{
+							"id":"467",
+							"description":""
+						},
+						{
+							"id":"773",
+							"description":""
+						},
+						{
+							"id":"334",
+							"description":""
+						},
+						{
+							"id":"546",
+							"description":""
+						},
+						{
+							"id":"577",
+							"description":""
+						},
+						{
+							"id":"598",
+							"description":""
+						},
+						{
+							"id":"403",
+							"description":""
+						},
+						{
+							"id":"605",
+							"description":""
+						},
+						{
+							"id":"447",
+							"description":""
+						},
+						{
+							"id":"124",
+							"description":""
+						},
+						{
+							"id":"115",
+							"description":""
+						}
+					],
+					"Mama Silencer":[
+						{
+							"id":"135",
+							"description":""
+						},
+						{
+							"id":"984",
+							"description":""
+						},
+						{
+							"id":"409",
+							"description":""
+						},
+						{
+							"id":"87",
+							"description":""
+						},
+						{
+							"id":"320",
+							"description":""
+						},
+						{
+							"id":"913",
+							"description":""
+						},
+						{
+							"id":"194",
+							"description":""
+						},
+						{
+							"id":"694",
+							"description":""
+						},
+						{
+							"id":"95",
+							"description":""
+						},
+						{
+							"id":"983",
+							"description":""
+						},
+						{
+							"id":"758",
+							"description":""
+						}
+					],
+					"Red Fade":[
+						{
+							"id":"59",
+							"description":""
+						},
+						{
+							"id":"237",
+							"description":""
+						},
+						{
+							"id":"462",
+							"description":""
+						},
+						{
+							"id":"797",
+							"description":""
+						},
+						{
+							"id":"859",
+							"description":""
+						},
+						{
+							"id":"212",
+							"description":""
+						},
+						{
+							"id":"800",
+							"description":""
+						},
+						{
+							"id":"864",
+							"description":""
+						},
+						{
+							"id":"369",
+							"description":""
+						},
+						{
+							"id":"740",
+							"description":""
+						},
+						{
+							"id":"446",
+							"description":""
+						}
+					]
+				}
+			}
+		}
     },
     "UMP-45":{
         "id":"24"
@@ -2318,6 +2865,8 @@
 				"name":"Granite Marbleized",
 				"sources":"",
 				"description":"",
+				"link":"https://csgostash.com/skin/161/P2000-Granite-Marbleized",
+				"image":"p2000_granite.png",
 				"patterns":{
 					"Unique Patterns":[
 						{
@@ -2331,6 +2880,8 @@
 				"name":"Acid Etched",
 				"sources":"https://steamcommunity.com/sharedfiles/filedetails/?id=2878867119",
 				"description":"",
+				"link":"https://csgostash.com/skin/1258/P2000-Acid-Etched",
+				"image":"p2000_acid.png",
 				"patterns":{
 					"Unique Patterns":[
 						{

@@ -1,9 +1,6 @@
 {
     "Desert Eagle":{
-        "id":"1"
-    },
-    "Dual Berettas":{
-        "id":"2",
+        "id":"1",
 		"finishCatalog":{
 			"":{
 				"name":"Bronze Deco",
@@ -223,6 +220,9 @@
 				}
 			}
 		}
+    },
+    "Dual Berettas":{
+        "id":"2"
     },
     "Five-SeveN":{
         "id":"3",

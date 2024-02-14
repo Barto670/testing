@@ -3061,7 +3061,7 @@
     },
     "XM1014":{
         "id":"25",
-		"patterns":{
+		"finishCatalog":{
 			"654":{
 				"name":"Seasons",
 				"sources":"https://steamcommunity.com/sharedfiles/filedetails/?id=1890477929",

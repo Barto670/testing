@@ -3,7 +3,226 @@
         "id":"1"
     },
     "Dual Berettas":{
-        "id":"2"
+        "id":"2",
+		"finishCatalog":{
+			"":{
+				"name":"Bronze Deco",
+				"sources":"https://steamcommunity.com/sharedfiles/filedetails/?id=2951853428",
+				"description":"",
+				"link":"https://csgostash.com/skin/565/Desert-Eagle-Bronze-Deco",
+				"image":"deagle_deco.png",
+				"patterns":{
+					"Light Gold T1":[
+						{
+							"id":"703",
+							"description":"#1"
+						},
+						{
+							"id":"169",
+							"description":"#2"
+						}
+					],
+					"Light Gold T2":[
+						{
+							"id":"539",
+							"description":""
+						},
+						{
+							"id":"149",
+							"description":""
+						},
+						{
+							"id":"273",
+							"description":""
+						}
+					],
+					"Light Gold T3":[
+						{
+							"id":"313",
+							"description":""
+						},
+						{
+							"id":"963",
+							"description":""
+						},
+						{
+							"id":"69",
+							"description":""
+						}
+					],
+					"Light Gold T4":[
+						{
+							"id":"267",
+							"description":""
+						},
+						{
+							"id":"341",
+							"description":""
+						},
+						{
+							"id":"76",
+							"description":""
+						},
+						{
+							"id":"153",
+							"description":""
+						}
+					],
+					"Dark Gold T1":[
+						{
+							"id":"864",
+							"description":"#1"
+						},
+						{
+							"id":"573",
+							"description":"#2"
+						},
+						{
+							"id":"475",
+							"description":"#3"
+						}
+					],
+					"Dark Gold T2":[
+						{
+							"id":"186",
+							"description":""
+						},
+						{
+							"id":"247",
+							"description":""
+						},
+						{
+							"id":"365",
+							"description":""
+						}
+					],
+					"Dark Gold T3":[
+						{
+							"id":"347",
+							"description":""
+						},
+						{
+							"id":"95",
+							"description":""
+						},
+						{
+							"id":"122",
+							"description":""
+						}
+					],
+					"Dark Gold T4":[
+						{
+							"id":"438",
+							"description":""
+						},
+						{
+							"id":"188",
+							"description":""
+						},
+						{
+							"id":"209",
+							"description":""
+						},
+						{
+							"id":"541",
+							"description":""
+						},
+						{
+							"id":"8",
+							"description":""
+						}
+					],
+					"Silver T1":[
+						{
+							"id":"425",
+							"description":"#1"
+						},
+						{
+							"id":"565",
+							"description":"#2"
+						},
+						{
+							"id":"987",
+							"description":"#3"
+						}
+					],
+					"Silver T2":[
+						{
+							"id":"617",
+							"description":""
+						},
+						{
+							"id":"19",
+							"description":""
+						},
+						{
+							"id":"717",
+							"description":""
+						},
+						{
+							"id":"739",
+							"description":""
+						},
+						{
+							"id":"924",
+							"description":""
+						},
+						{
+							"id":"470",
+							"description":""
+						}
+					],
+					"Silver T3":[
+						{
+							"id":"946",
+							"description":""
+						},
+						{
+							"id":"447",
+							"description":""
+						},
+						{
+							"id":"16",
+							"description":""
+						},
+						{
+							"id":"756",
+							"description":""
+						},
+						{
+							"id":"702",
+							"description":""
+						},
+						{
+							"id":"517",
+							"description":""
+						}
+					],
+					"Silver T4":[
+						{
+							"id":"632",
+							"description":""
+						},
+						{
+							"id":"648",
+							"description":""
+						},
+						{
+							"id":"308",
+							"description":""
+						},
+						{
+							"id":"31",
+							"description":""
+						},
+						{
+							"id":"522",
+							"description":""
+						}
+					]
+				}
+			}
+		}
     },
     "Five-SeveN":{
         "id":"3",
@@ -828,6 +1047,12 @@
 							"id":"589",
                             "description":""
                         }
+					],
+					"Unique Patterns":[
+						{
+							"id":"817",
+                            "description":"Heisenberg (back of skin)"
+						}
 					]
                 }
             },
@@ -3424,7 +3649,24 @@
         "id":"29"
     },
     "Tec-9":{
-        "id":"30"
+        "id":"30",
+		"finishCatalog":{
+			"684":{
+				"name":"Cracked Opal",
+				"sources":"",
+				"description":"",
+				"link":"https://csgostash.com/skin/902/Tec-9-Cracked-Opal",
+				"image":"tec9_opal.png",
+				"patterns":{
+					"Unique Patterns":[
+						{
+							"id":"832",
+							"description":"D*ck Pattern (back of skin)"
+						}
+					]
+				}
+			}
+		}
     },
 	"Zeus x27":{
 		"id":"31"
